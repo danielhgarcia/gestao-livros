@@ -106,6 +106,9 @@ O objetivo principal deste projeto é criar um sistema de gestão de livros, ond
     ```
     http://127.0.0.1:8000
     ```
+## Documentação do Banco de Dados
+
+Para maiores detalhes sobre as tabelas, colunas e relacionamentos, consulte a [documentação do banco de dados](DATABASE.md).
 
 ## Testes
 
