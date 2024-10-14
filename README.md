@@ -45,7 +45,7 @@ O objetivo principal deste projeto é criar um sistema de gestão de livros, ond
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/danielhgarcia/gestao-livros
     ```
 
 2. Acesse o diretório do projeto:
